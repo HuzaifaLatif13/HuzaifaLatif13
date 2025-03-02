@@ -1,6 +1,3 @@
-# <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/> App Developer 💙
-![Huzaifa's Banner](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&color=00A8E8&background=000000&center=true&vCenter=true&multiline=true&width=600&height=110&lines=🚀+Flutter+App+Developer;💙+Building+Scalable+Mobile+Apps;🔥+Let's+Create+Something+Amazing!)
-
 ![Huzaifa's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&background=000000&center=true&vCenter=true&width=800&lines=🚀+Flutter+App+Developer...;💙+Building+Scalable+Mobile+Apps...;🔥+Let's+Create+Something+Amazing...)
 
 
