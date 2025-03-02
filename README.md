@@ -1,4 +1,4 @@
-# 🚀 Flutter App Developer 💙  
+# 🚀 Flutter App Developer 💙  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
 [<img src="https://github.com/user-attachments/assets/ae2cd31b-0cae-4bf1-9542-977cfe0f3913"/>](https://github.com/HuzaifaLatif13)  
 
