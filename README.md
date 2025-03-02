@@ -1,6 +1,6 @@
 # 🚀 Flutter App Developer  
 
-[<img src="https://github.com/user-attachments/assets/c97cb285-27f4-460a-a859-baa12fb0eeb1" width="250" />](https://github.com/HuzaifaLatif13)  
+[<img src="https://github.com/user-attachments/assets/ae2cd31b-0cae-4bf1-9542-977cfe0f3913" width="500" />](https://github.com/HuzaifaLatif13)  
 
 ### 👋 Hello, world!  
 
