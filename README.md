@@ -35,7 +35,7 @@ I specialize in **Flutter 🏗️, Firebase 🔥, .NET 💻, Kotlin 📱, AI �
 
 ## ⚡ GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaLatif13&show_icons=true&theme=ocean-dark&count_private=true)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaLatif13&show_icons=true&theme=github_dark&count_private=true)  
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaLatif13&layout=compact&theme=blueberry)  
 
