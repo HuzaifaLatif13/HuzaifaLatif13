@@ -1,4 +1,5 @@
 # <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/> App Developer 💙
+<img src="https://img.shields.io/badge/Flutter-Black?style=for-the-badge&logo=Flutter&logoColor=00A8E8"/>
 
 [<img src="https://github.com/user-attachments/assets/ae2cd31b-0cae-4bf1-9542-977cfe0f3913"/>](https://github.com/HuzaifaLatif13)  
 
@@ -37,6 +38,6 @@ I specialize in **Flutter 🏗️, Firebase 🔥, .NET 💻, Kotlin 📱, AI �
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaLatif13&show_icons=true&bg_color=000000&title_color=00A8E8&text_color=00C8FF&icon_color=00A8E8&border_color=00A8E8&count_private=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaLatif13&layout=compact&theme=blueberry)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaLatif13&layout=compact&bg_color=000000&title_color=00A8E8&text_color=00C8FF&border_color=00A8E8)
 
 🚀 **Check out my projects & let’s build something amazing together!** 💙
