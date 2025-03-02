@@ -1,6 +1,6 @@
-# 🚀 Flutter App Development Repository  
+# 🚀 Flutter App Developer  
 
-[<img src="https://user-images.githubusercontent.com/14938482/173395971-707d0d64-ca9d-4c34-9f08-df2a80c229fd.png" width="250" />](https://github.com/HuzaifaLatif13)  
+[<img src="https://www.google.com/imgres?q=flutter%20icon&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F168%2F443%2Fpng-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dflutter%2Blogo&docid=fCnh3K1kgtmzSM&tbnid=dGSFC01xCgy3EM&vet=12ahUKEwiWza3qleyLAxUE4gIHHd3eB7EQM3oECBgQAA..i&w=360&h=360&hcb=2&ved=2ahUKEwiWza3qleyLAxUE4gIHHd3eB7EQM3oECBgQAA" width="250" />](https://github.com/HuzaifaLatif13)  
 
 ### 👋 Hello, world!  
 
