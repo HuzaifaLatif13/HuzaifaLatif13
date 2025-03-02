@@ -1,6 +1,6 @@
 # ![Huzaifa's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&background=000000&center=true&vCenter=true&width=1020&lines=🧑🏻‍💻+MUHAMMAD+HUZAIFA+LATIF...;🚀+Flutter+App+Developer...;💙+Building+Scalable+Mobile+Apps...;🔥+Let's+Create+Something+Amazing...)
 
-https://github.com/user-attachments/assets/a2f5bbee-033e-4af5-b943-d153a04164b2
+![Image](https://github.com/user-attachments/assets/a2f5bbee-033e-4af5-b943-d153a04164b2)
 
 
 ### 👋 Hello, world!  
