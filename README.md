@@ -1,5 +1,5 @@
 # <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/> App Developer 💙
-![Huzaifa's Banner](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&color=00A8E8&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Flutter+App+Developer;💙+Building+Scalable+Mobile+Apps;🔥+Let's+Create+Something+Amazing!)
+![Huzaifa's Banner](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&color=00A8E8&background=000000&center=true&vCenter=true&multiline=true&width=600&height=110&lines=🚀+Flutter+App+Developer;💙+Building+Scalable+Mobile+Apps;🔥+Let's+Create+Something+Amazing!)
 
 [<img src="https://github.com/user-attachments/assets/ae2cd31b-0cae-4bf1-9542-977cfe0f3913"/>](https://github.com/HuzaifaLatif13)  
 
@@ -36,10 +36,19 @@ I specialize in **Flutter 🏗️, Firebase 🔥, .NET 💻, Kotlin 📱, AI �
 
 ## ⚡ GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaLatif13&show_icons=true&bg_color=000000&title_color=00A8E8&text_color=00C8FF&icon_color=00A8E8&border_color=00A8E8&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HuzaifaLatif13&show_icons=true&theme=blueberry&count_private=true&bg_color=000000&text_color=00A8E8&title_color=00C8FF)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaLatif13&bg_color=000000&color=00A8E8&line=00C8FF&point=FFFFFF&area=true&area_color=00A8E8)
+📊 **Top Languages:**  
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaLatif13&layout=compact&bg_color=000000&title_color=00A8E8&text_color=00C8FF&border_color=00A8E8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuzaifaLatif13&layout=compact&theme=blueberry&bg_color=000000&text_color=00A8E8&title_color=00C8FF)  
 
+🔥 **Contribution Streak Stats:**  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HuzaifaLatif13&theme=dark&background=000000&border=00C8FF&ring=00A8E8&currStreakNum=00A8E8&sideNums=00C8FF)  
+
+📈 **GitHub Activity Graph:**  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaLatif13&bg_color=000000&color=00A8E8&line=00C8FF&point=FFFFFF&area=true&area_color=00A8E8)  
+
+---
 🚀 **Check out my projects & let’s build something amazing together!** 💙
