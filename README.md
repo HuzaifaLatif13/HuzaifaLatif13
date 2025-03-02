@@ -1,8 +1,5 @@
 # ![Huzaifa's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&background=000000&center=true&vCenter=true&width=1020&lines=🧑🏻‍💻+Muhammad+Huzaifa+Latif...;🚀+Flutter+App+Developer...;💙+Building+Scalable+Mobile+Apps...;🔥+Let's+Create+Something+Amazing...)
 
-
-[<img src="https://github.com/user-attachments/assets/ae2cd31b-0cae-4bf1-9542-977cfe0f3913"/>](https://github.com/HuzaifaLatif13)  
-
 ### 👋 Hello, world!  
 
 💻 **Some code, a lot of creativity!** I build **scalable, high-performance** Flutter applications that make a difference.  
@@ -52,3 +49,4 @@ I specialize in **Flutter 🏗️, Firebase 🔥, .NET 💻, Kotlin 📱, AI �
 
 ---
 🚀 **Check out my projects & let’s build something amazing together!** 💙
+[<img src="https://github.com/user-attachments/assets/ae2cd31b-0cae-4bf1-9542-977cfe0f3913"/>](https://github.com/HuzaifaLatif13)  
